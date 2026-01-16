@@ -28,32 +28,32 @@ python3 -m examples.airfoil_flow
 ## Examples
 Lid driven cavity flow
 <p align="center">
-  <img src="assets/ldc_flow.gif" alt="scald" width=50%>
+  <img src="assets/ldc_flow.gif" alt="scald">
 </p>
 
 Flow past cylinders
 <p align="center">
-  <img src="assets/cylinder_flow.gif" alt="scald" width=50%>
+  <img src="assets/cylinder_flow.gif" alt="scald">
 </p>
 
 Rayleigh-Bernard convection
 <p align="center">
-  <img src="assets/rbc.gif" alt="scald" width=50%>
+  <img src="assets/rbc.gif" alt="scald">
 </p>
 
 Thermal bubble rising
 <p align="center">
-  <img src="assets/thermal_bubble.gif" alt="scald" width=50%>
+  <img src="assets/thermal_bubble.gif" alt="scald">
 </p>
 
 Forced convection past boxes
 <p align="center">
-  <img src="assets/thermal_box_flow.gif" alt="scald" width=50%>
+  <img src="assets/thermal_box_flow.gif" alt="scald">
 </p>
 
 Droplet collision
 <p align="center">
-  <img src="assets/droplet.gif" alt="scald" width=50%>
+  <img src="assets/droplet.gif" alt="scald">
 </p>
 
 ## Benchmarks
