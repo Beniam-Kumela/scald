@@ -5,7 +5,7 @@
   <img src="assets/scald.jpg" alt="scald">
 </p>
 
-SCALD is a Python package for solving multiphase fluid dynamics with heat transfer. It leverages the Lattice Boltzmann Method ([LBM](https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods)) using the [BGK](https://en.wikipedia.org/wiki/Bhatnagar%E2%80%93Gross%E2%80%93Krook_operator) approximation, using the [double distribution method](https://doi.org/10.1103/PhysRevE.76.056705) to couple thermal effects with flow. The [Shan-Chen model](https://doi.org/10.1103/PhysRevE.47.1815) is used to capture multiphase interactions. SCALD is designed have minimal dependencies,modular, and parallelized across CPU cores for efficient high-performance simulations.
+SCALD is a Python package for solving multiphase fluid dynamics with heat transfer. It leverages the Lattice Boltzmann Method ([LBM](https://en.wikipedia.org/wiki/Lattice_Boltzmann_methods)) using the [BGK](https://en.wikipedia.org/wiki/Bhatnagar%E2%80%93Gross%E2%80%93Krook_operator) approximation, using the [double distribution method](https://doi.org/10.1103/PhysRevE.76.056705) to couple thermal effects with flow. The [Shan-Chen model](https://doi.org/10.1103/PhysRevE.47.1815) is used to capture multiphase interactions. SCALD is designed have minimal dependencies, modular, and parallelized across CPU cores for efficient high-performance simulations.
 
 ## Installation
 ```
