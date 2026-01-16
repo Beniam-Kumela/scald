@@ -19,7 +19,7 @@ Dependencies:
 - tqdm for progress bars
 
 ## Quick Start
-Once repository is cloned, the fastest way to get a sense of SCALD's capabilities is to run some of the sample scripts. For example, the following runs an airfoil in a wind tunnel simulation:
+Once repository is cloned, the fastest way to get a sense of SCALD's capabilities is to run some of the sample scripts. While in the parent scald directory, the following runs an airfoil in a wind tunnel simulation:
 
 ```
 python3 -m examples.airfoil_flow
